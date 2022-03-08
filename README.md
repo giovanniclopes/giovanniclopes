@@ -1,7 +1,7 @@
 ### Olá, Eu sou Giovanni Lopes 👋🏼
    
 - 💼 Sou estudante do 2º Ano Médio Técnico em Informática
-- 🎯 Procuro estágio na área de desenvolvimento web
+- 🎯 Estudando para conseguir um estágio na área de desenvolvimento web
 - 💻 Entusiasta de JavaScript e web3.0
    
    ![](https://komarev.com/ghpvc/?username=giovnanniclopes&color=CD5C5C&style=flat&label=Visualizações+no+perfil)
