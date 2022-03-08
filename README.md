@@ -5,6 +5,7 @@
 - 💻 Entusiasta de JavaScript e web3.0
    
    ![](https://komarev.com/ghpvc/?username=giovnanniclopes&color=CD5C5C&style=flat&label=Visualizações+no+perfil)
+   [![wakatime](https://wakatime.com/badge/user/746aac76-874d-42d7-b60f-29d4df4d0300.svg)](https://wakatime.com/@746aac76-874d-42d7-b60f-29d4df4d0300?style=social)
 
 ##
 
