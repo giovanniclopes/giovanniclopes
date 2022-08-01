@@ -1,8 +1,8 @@
 ### Olá, Eu sou Giovanni Lopes 👋🏼
    
-- 💼 Sou estudante do 2º Ano Médio Técnico em Informática
-- 🎯 Estudando para conseguir um estágio na área de desenvolvimento web
-- 💻 Entusiasta de JavaScript e web3.0
+- 💼 Sou estudante do 2º Ano Médio Técnico em Informática;
+- 🎯 Estudando por diversão e para obter o máximo de conhecimento;
+- 💻 Entusiasta da web3.0 e JavaScript e seus frameworks.
    
    ![](https://komarev.com/ghpvc/?username=giovnanniclopes&color=CD5C5C&style=flat&label=Visualizações+no+perfil)
    [![wakatime](https://wakatime.com/badge/user/746aac76-874d-42d7-b60f-29d4df4d0300.svg)](https://wakatime.com/@746aac76-874d-42d7-b60f-29d4df4d0300?style=social)
