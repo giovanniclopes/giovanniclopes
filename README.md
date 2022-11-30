@@ -1,4 +1,4 @@
-### Olá, Eu sou Giovanni Lopes 👋🏼
+### Olá! Sou Giovanni Lopes 👋🏼
    
 - 💼 Sou estudante do 2º Ano Médio Técnico em Informática;
 - 🎯 Estudando por diversão e para obter o máximo de conhecimento;
