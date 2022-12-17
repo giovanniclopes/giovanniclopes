@@ -62,7 +62,7 @@
  </div>
  
  <div align="center">
- <img src="https://giovanniclopes.github.io/portfolio/images/contributions.svg" />
+ <img src="https://giovanniclopes.github.io/portfolio/images/contributions.svg" draggable="false" />
  </div>
     
  ##
