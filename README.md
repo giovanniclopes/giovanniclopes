@@ -13,8 +13,8 @@
 <div align="center">
   <a href="https://github.com/giovanniclopes">
    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=giovanniclopes&theme=omni&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=giovanniclopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanniclopes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src=""/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanniclopes&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
 ##
