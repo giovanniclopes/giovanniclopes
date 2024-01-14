@@ -1,6 +1,6 @@
 ### Olá! Sou Giovanni Lopes 👋🏼
    
-- 💼 Estudo Análise e Desenvolvimento de Sistemas (ADS);
+- 💼 Ensino Superior em andamento em Análise e Desenvolvimento de Sistemas (ADS);
 - 🎯 Estudando por diversão e para obter o máximo de conhecimento;
 - 💻 Entusiasta da Web 3.0, JavaScript, IAs e games.
    
