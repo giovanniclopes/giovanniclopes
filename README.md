@@ -1,6 +1,6 @@
 ### Olá! Sou Giovanni Lopes 👋🏼
    
-- 💼 Sou estudante do 3º Ano Médio Técnico em Informática;
+- 💼 Estudo Análise e Desenvolvimento de Sistemas (ADS);
 - 🎯 Estudando por diversão e para obter o máximo de conhecimento;
 - 💻 Entusiasta da Web 3.0, JavaScript, IAs e games.
    
