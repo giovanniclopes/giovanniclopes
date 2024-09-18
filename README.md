@@ -1,8 +1,27 @@
-### Olá! Sou Giovanni Lopes 👋🏼
+![Olá! Sou Giovanni Lopes 👋🏼](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        Olá! Sou Giovanni Lopes 👋🏼
+      </h1>
+    </summary>
+  </ul>
+</div>
    
-- 💼 Ensino Superior em andamento em Análise e Desenvolvimento de Sistemas (ADS);
-- 🎯 Estudando por diversão e para obter o máximo de conhecimento;
-- 💻 Entusiasta da Web 3.0, JavaScript, IAs e games.
+**<h3 align="center">Se conecte comigo:</h3>** 
+<p align="center"><a href="giovanniclopes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" style="margin-right: 8px"></a> <a href="https://github.com/github.com/giovanniclopes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32" style="margin-right: 8px"></a> <a href="https://www.linkedin.com/in/linkedin.com/in/giovanni-lopes21" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 8px"></a> <a href="https://www.instagram.com/gi_camargo_l" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" style="margin-right: 8px"></a></p>
+
+ **<h3 align="left">🚀 Apaixonado por desenvolvimento web, criando aplicações web robustas e escaláveis. Possuo competências em tecnologias front-end e back-end, com um olhar atento à experiência do usuário e à otimização do desempenho.</h3>**
+
+
+- 💼 Trabalho com: **Desenvolvimento back-end;**
+- 🏫 Estou cursando: **Ensino Superior em andamento em Análise e Desenvolvimento de Sistemas e Engenharia de Software;**
+- 🌱 Estou atualmente aprendendo: **React, TypeScript, NodeJS, NestJS, Firebase**
+- 💬 Me pergunte sobre: **JavaScript, React, Node.js e TypeScript**
+- ⚡ Curiosidades: **💻 Entusiasta da Web 3.0, JavaScript, IAs, games, livros e esportes.**
+- 📂 Portfolio: **<a href="giovannilopes.vercel.app" target="_blank">giovannilopes.vercel.app</a>**
    
    ![](https://komarev.com/ghpvc/?username=giovnanniclopes&color=CD5C5C&style=flat&label=Visualizações+no+perfil)
    [![wakatime](https://wakatime.com/badge/user/746aac76-874d-42d7-b60f-29d4df4d0300.svg)](https://wakatime.com/@746aac76-874d-42d7-b60f-29d4df4d0300?style=social)
@@ -10,66 +29,19 @@
 
 ##
 
-<div align="center">
-   <a href="https://github.com/giovanniclopes">
-   <br />
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=giovanniclopes&theme=omni&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-      <br />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=giovanniclopes&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanniclopes&layout=compact&langs_count=7&theme=omni"/>
-</div>
+ **<h3 align="left">Skills</h3>**
 
-##
+<p align="left"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" height="32" alt="NestJS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="32" alt="Prisma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="32" alt="Firebase" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=power%20bi&logoColor=black" height="32" alt="Power BI" style="margin-right: 4px"></p>
 
- #### 🧠 Habilidades 
- 
-  <div style="display: inline_block;" align="center">
- <kbd align="center">
-      <kbd>Estudando e praticando:</kbd>
-      <br />
-      <br />
-      <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center"  title="Javascript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" title="TypeScript" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-      <img align="center" title="TailwindCSS" alt="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-      <img align="center" title="WordPress" alt="WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-    
-<br />
-<br /> 
-</kbd>
+ **<h3 align="left">GitHub Stats</h3>**
 
-<kbd align="center">
-<kbd>Leve contato com:</kbd> 
-     <br />
-     <br />
-      <img align="center" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="center"  title="MySQL" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-      <img align="center"  title="C#" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <br />
- <br />
- </kbd>
- 
-     
-<kbd align="center">
-<kbd>Interesse em:</kbd> 
-     <br />
-     <br />
-      <img align="center" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="center"  title="React e React Native" alt="React e React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center"  title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-      <img align="center"  title="Java" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <br />
- <br />
- </kbd>
- </div>
- 
- <div align="center">
- <img src="https://giovanniclopes.github.io/portfolio/images/contributions.svg" draggable="false" />
- </div>
-    
- ##
-<div align="center"> 
-  <a href="https://instagram.com/gi_camargo_l" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:giovanniclopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giovanni-lopes21/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=giovanniclopes&theme=omni&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23&title_color=Giovanni+Lopes+Status&text_color=ffffff&icon_color=ffce00&border_color=B221E6&locale=pt-br&hide_border=false&rank_icon=github&number_format=short&text_bold=true&show=&border_radius=10&bg_color=1f1f1f&ring_color=B221E6&custom_title=Giovanni+Lopes+Status" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=giovanniclopes&theme=omni&hide_border=false&date_format=j%2Fn%2FY&mode=weekly&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&border_radius=11&background=1f1f1f&border=B221E6&ring=ffce00&stroke=B221E6&fire=f01e2c&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffce00&sideLabels=ffffff&locale=pt-br&exclude_days=Sun%2CSat" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanniclopes&theme=omni&hide_title=false&layout=compact&langs_count=4&hide_progress=false&card_width=400&title_color=ffffff&text_color=ffffff&border_color=B221E6&bg_color=1f1f1f&border_radius=10&locale=pt-br&custom_title=Linguagens+mais+Usadas" alt="GitHub top-langs Card" />
+</p>
+
+
