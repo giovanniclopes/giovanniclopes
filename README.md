@@ -18,9 +18,9 @@
 
 - 💼 Trabalho com: **Desenvolvimento back-end;**
 - 🏫 Estou cursando: **Ensino Superior em andamento em Análise e Desenvolvimento de Sistemas e Engenharia de Software;**
-- 🌱 Estou atualmente aprendendo: **React, TypeScript, NodeJS, NestJS, Firebase**
-- 💬 Me pergunte sobre: **JavaScript, React, Node.js e TypeScript**
-- ⚡ Curiosidades: **💻 Entusiasta da Web 3.0, JavaScript, IAs, games, livros e esportes.**
+- 🌱 Estou atualmente aprendendo: **React, TypeScript, NodeJS, NestJS, Firebase;**
+- 💬 Me pergunte sobre: **JavaScript, React, Node.js e TypeScript;**
+- ⚡ Curiosidades: **💻 Entusiasta da Web 3.0, JavaScript, IAs, games, livros e esportes;**
 - 📂 Portfolio: **<a href="giovannilopes.vercel.app" target="_blank">giovannilopes.vercel.app</a>**
    
    ![](https://komarev.com/ghpvc/?username=giovnanniclopes&color=CD5C5C&style=flat&label=Visualizações+no+perfil)
